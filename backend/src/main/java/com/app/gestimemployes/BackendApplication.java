@@ -1,13 +1,13 @@
-package com.app.gestionempoyes;
+package com.app.gestimemployes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestionempoyesApplication {
+public class BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestionempoyesApplication.class, args);
+		SpringApplication.run(BackendApplication.class, args);
 	}
 
 }

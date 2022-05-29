@@ -1,10 +1,10 @@
-package com.app.gestionempoyes;
+package com.app.gestimemployes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GestionempoyesApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
